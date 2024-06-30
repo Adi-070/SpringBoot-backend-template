@@ -1,4 +1,4 @@
-﻿# SpringBoot-backend-template# Spring Boot Application README
+
 
 Welcome to our Spring Boot application! This README provides an overview of the project, its features, setup instructions, and usage guidelines.
 
