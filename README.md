@@ -44,4 +44,9 @@ Follow these steps to set up and run the Spring Boot application locally:
    ```bash
    git clone <repository-url>
    cd your-project-directory
+   mvn spring-boot:run
 
+## 
+
+Once the application is running, access the API endpoints via http://localhost:8080/api/employees.
+Use tools like cURL, Postman, or Insomnia for testing API endpoints with authentication.
